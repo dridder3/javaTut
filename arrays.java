@@ -21,10 +21,11 @@ public class arrays {
       System.out.println(values[i]);
     }
     
-    int[] numbers = (5, 6, 7);
+    int[] numbers = (5)(6)(7);
     
     for(int i=0; i<numbers.length; i++) {
       System.out.println(numbers[i]);
     }
+    
   }  
 } 
